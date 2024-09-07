@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.root,
+#root,
+#docs-root {
+    min-height: 100vh;
+    display: flex;
+}
+.btn{
+    text-transform: none;
+}
+
+
